@@ -1,4 +1,22 @@
-.box-fixed {
-	position: left;
+.navbar {
+	position: fixed;
+	width: 2em;
+	border-right: ;
+	height: ;
+	text-decoration: none;
+}
+.box {
+max-width: 45em;
+float: center;
+}
+.box2 {
+	width: 30%;
+}
 
+
+.box-farright {
+position: fixed;
+float: right;
+width: 50px;
+height: auto;
 }
