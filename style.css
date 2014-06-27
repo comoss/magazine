@@ -1,19 +1,37 @@
 .navbar {
 	position: fixed;
-	width: 2em;
-	border-right: ;
-	height: ;
+	width: 6.6em;
+	top:0;
+	bottom: 0;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-right-color: black;
+	text-align: center;
 	text-decoration: none;
+	margin-right: 20px;
+	clear: both;
+	z-index: 100;
+
 }
-.box {
-max-width: 45em;
+/* .box {
+max-width: 49em;
 float: center;
+display: inline-block;
+
+
+
 }
 .box2 {
 	width: 30%;
+	display: inline-block;
+	border-left-style: solid;
+	border-left-width: 2px;
+	margin: .5em;
+	padding: 1em;
+
 }
 
-
+*/
 .box-farright {
 position: fixed;
 float: right;
