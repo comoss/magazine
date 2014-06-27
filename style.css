@@ -1,16 +1,19 @@
 .navbar {
 	position: fixed;
-	width: 6.6em;
+	width: 7.3em;
 	top:0;
 	bottom: 0;
+	left: 0;
+	border-right-color: #eee;
 	border-right-style: solid;
-	border-right-width: 2px;
+	border-right-width: 1px;
 	border-right-color: black;
 	text-align: center;
 	text-decoration: none;
 	margin-right: 20px;
 	clear: both;
 	z-index: 100;
+	padding-right: .5em;
 
 }
 /* .box {
@@ -32,9 +35,18 @@ display: inline-block;
 }
 
 */
-.box-farright {
-position: fixed;
-float: right;
-width: 50px;
-height: auto;
-}
+.rightbar {
+	/*position: fixed;*/
+	width: 4em;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-left-color: black;
+	text-align: center;
+	text-decoration: none;
+	float: right;
+	clear: both;
+
+	
