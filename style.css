@@ -6,13 +6,12 @@
 	left: 0;
 	border-right-color: #eee;
 	border-right-style: solid;
-	border-right-width: 1px;
-	border-right-color: black;
+	border-right-width: 2px;
 	text-align: center;
 	text-decoration: none;
 	margin-right: 20px;
 	clear: both;
-	z-index: 100;
+	z-index: 10;
 	padding-right: .5em;
 
 }
@@ -20,6 +19,7 @@
 max-width: 49em;
 float: center;
 display: inline-block;
+z-index:;
 
 
 
@@ -36,17 +36,19 @@ display: inline-block;
 
 */
 .rightbar {
-	/*position: fixed;*/
-	width: 4em;
+	/*position: absolute;*/
+	float: right;
+	width: 55px;
 	top: 0;
 	bottom: 0;
-	right: 0;
 	border-left-style: solid;
 	border-left-width: 2px;
-	border-left-color: black;
 	text-align: center;
 	text-decoration: none;
 	float: right;
 	clear: both;
+	border-left-color: #eee;
+	z-index: 10;
+
 
 	
