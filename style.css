@@ -46,7 +46,7 @@
 }
 .box {
 	max-width: 43%;
-	margin-left: 8.5em;
+	margin-left: 6.5em;
 	font-size:; 
     /*border-right-width:0.125em;
 	border-right-color: #eee; */
@@ -66,7 +66,7 @@
 .smallbox {
 	width: 30%;
 	float: right;
-	margin-right: 5em;
+	margin-right: 4em;
 	display: inline-block;
 	border-left-width: 0.125em;
 	border-left-color: #eee;
@@ -74,6 +74,7 @@
 	top: 0;
 	bottom: 0;
 	display: inline-block;
+	padding: 1em;
 	 
 
 
