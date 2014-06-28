@@ -1,6 +1,6 @@
 .navbar {
 	position: fixed;
-	width: 126px;
+	width: 7.875em;
 	top:0;
 	bottom: 0;
 	left: 0;
@@ -17,16 +17,14 @@
 
 
 }
-/* .box {
-max-width: 49em;
-float: center;
-display: inline-block;
-z-index:;
+.box {
+	max-width: 75%
 
 
 
 }
-.box2 {
+
+/*.small box {
 	width: 30%;
 	display: inline-block;
 	border-left-style: solid;
@@ -39,8 +37,7 @@ z-index:;
 */
 .rightbar {
 	position: fixed;
-	/*float: right;*/
-	width: 56px;
+	width: 3.5em;
 	top: 0;
 	bottom: 0;
 	right: 0;
@@ -53,6 +50,10 @@ z-index:;
 	border-left-color: #eee;
 	z-index: 10;
 	font-family: sans-serif;
+
+ {
+	color: #ccc;
+}
 	
 
 
