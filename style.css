@@ -38,8 +38,8 @@ z-index:;
 
 */
 .rightbar {
-	/*position: absolute;*/
-	float: right;
+	position: fixed;
+	/*float: right;*/
 	width: 56px;
 	top: 0;
 	bottom: 0;
