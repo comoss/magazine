@@ -1,6 +1,6 @@
 .navbar {
 	position: fixed;
-	width: 7.3em;
+	width: 126px;
 	top:0;
 	bottom: 0;
 	left: 0;
@@ -13,6 +13,8 @@
 	clear: both;
 	z-index: 10;
 	padding-right: .5em;
+	font-family: sans-serif; 
+
 
 }
 /* .box {
@@ -38,9 +40,10 @@ z-index:;
 .rightbar {
 	/*position: absolute;*/
 	float: right;
-	width: 55px;
+	width: 56px;
 	top: 0;
 	bottom: 0;
+	right: 0;
 	border-left-style: solid;
 	border-left-width: 2px;
 	text-align: center;
@@ -49,6 +52,8 @@ z-index:;
 	clear: both;
 	border-left-color: #eee;
 	z-index: 10;
+	font-family: sans-serif;
+	
 
 
 	
